@@ -44,7 +44,7 @@ The app allows users to manage tasks efficiently with full CRUD functionality an
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/tapasisamal/react-todo-context-localstorage
 ```
 
 ### 2. Navigate into the project folder
